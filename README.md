@@ -1,0 +1,2 @@
+# Mutiple Assitant Agent Framework
+ This is a test framework, allowing the user to use multiple assitant api agent in the same project to create a multiple agent work flow. The basic function is very simple. There are two agents, and one will say 'I'm Agent Smith, I'm going to call NEO' and send NEO a call, and the other is NEO, and once called, it will say 'I'm gonna kick your ass Smith' back, both will add a log in a backend.
